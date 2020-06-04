@@ -26,8 +26,8 @@ skysign at gmail.com
 * [https://github.com/chanshik/codewars](https://github.com/chanshik/codewars){:target="_blank"}
 
 ## 알고리즘 문제 풀이는 아래 유튜브 채널에서 찾아 보세요
-코딩으로 데이터를 풀다, 코데풀 채널
-https://bit.ly/2Xi36nL
+- 코딩으로 데이터를 풀다, 코데풀 채널
+- https://bit.ly/2Xi36nL
 
 ## WSAPT 스터디 미팅에서 토론 했던 문제들
 
