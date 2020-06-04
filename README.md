@@ -26,9 +26,13 @@ skysign at gmail.com
 * [https://github.com/chanshik/codewars](https://github.com/chanshik/codewars){:target="_blank"}
 
 ## 알고리즘 문제 풀이는 아래 유튜브 채널에서 찾아 보세요
-코딩으로 데이터를 풀다, 코데풀 채널 https://bit.ly/2Xi36nL https://www.youtube.com/channel/UCea29OwF9BvXShqKkAwtA4Q
+코딩으로 데이터를 풀다 [코데풀 채널](https://www.youtube.com/channel/UCea29OwF9BvXShqKkAwtA4Q){:target="_blank"}
 
 ## WSAPT 스터디 미팅에서 토론 했던 문제들
+
+### 6월 8일
+* BOJ 2225번 합분해
+* [https://www.acmicpc.net/problem/2225](https://www.acmicpc.net/problem/2225){:target="_blank"}
 
 ### 6월 1일
 * BOJ 11052번 카드 구매하기
