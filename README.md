@@ -30,6 +30,22 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 토론 했던 문제들
 
+### 7월 13일
+* BOJ 2156번 스티커
+* [https://www.acmicpc.net/problem/2156](https://www.acmicpc.net/problem/2156){:target="_blank"}
+
+### 7월 6일
+* BOJ 9465번 스티커
+* [https://www.acmicpc.net/problem/9465](https://www.acmicpc.net/problem/9465){:target="_blank"}
+
+### 6월 29일
+* BOJ 1309번 동물원
+* [https://www.acmicpc.net/problem/1309](https://www.acmicpc.net/problem/1309){:target="_blank"}
+
+### 6월 15일
+* BOJ 11720번 숫자의 합
+* [https://www.acmicpc.net/problem/11720](https://www.acmicpc.net/problem/11720){:target="_blank"}
+
 ### 6월 8일
 * BOJ 2225번 합분해
 * [https://www.acmicpc.net/problem/2225](https://www.acmicpc.net/problem/2225){:target="_blank"}
