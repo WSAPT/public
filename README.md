@@ -30,6 +30,10 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 토론 했던 문제들
 
+### 7월 27일
+* BOJ 2156번 정수 삼각형
+* [https://www.acmicpc.net/problem/1932](https://www.acmicpc.net/problem/1932){:target="_blank"}
+
 ### 7월 13일
 * BOJ 2156번 스티커
 * [https://www.acmicpc.net/problem/2156](https://www.acmicpc.net/problem/2156){:target="_blank"}
