@@ -30,6 +30,18 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 토론 했던 문제들
 
+### 9월 21일
+* BOJ 1260번 DFS와 BFS
+* [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260){:target="_blank"}
+
+### 9월 14일
+* BOJ 1012번 유기농 배추
+* [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012){:target="_blank"}
+
+### 9월 7일
+* BOJ 1449번 수리공 항승
+* [https://www.acmicpc.net/problem/1449](https://www.acmicpc.net/problem/1449){:target="_blank"}
+
 ### 8월 24일
 * BOJ 2133번: 타일 채우기
 * [https://www.acmicpc.net/problem/2133](https://www.acmicpc.net/problem/2133){:target="_blank"}
