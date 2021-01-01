@@ -28,7 +28,55 @@ skysign at gmail.com
 ## 알고리즘 문제 풀이는 아래 유튜브 채널에서 찾아 보세요
 코딩으로 데이터를 풀다 [코데풀 채널](https://www.youtube.com/channel/UCea29OwF9BvXShqKkAwtA4Q){:target="_blank"}
 
-## WSAPT 스터디 미팅에서 토론 했던 문제들
+## WSAPT 스터디 미팅에서 풀이한 문제들
+
+### 12월 28일
+* BOJ 2150번 Strongly Connected Component
+* [https://www.acmicpc.net/problem/2150](https://www.acmicpc.net/problem/2150){:target="_blank"}
+
+### 12월 21일
+* BOJ 1707번 이분 그래프
+* [https://www.acmicpc.net/problem/1707](https://www.acmicpc.net/problem/1707){:target="_blank"}
+
+### 12월 14일
+* BOJ 10026번 적록색약
+* [https://www.acmicpc.net/problem/10026](https://www.acmicpc.net/problem/10026){:target="_blank"}
+
+### 11월 30일
+* BOJ 1963번 소수 경로
+* [https://www.acmicpc.net/problem/1963](https://www.acmicpc.net/problem/1963){:target="_blank"}
+
+### 11월 23일
+* BOJ 16918번 봄버맨
+* [https://www.acmicpc.net/problem/16918](https://www.acmicpc.net/problem/16918){:target="_blank"}
+
+### 11월 16일
+* BOJ 7569번 토마토
+* [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569){:target="_blank"}
+
+### 11월 9일
+* BOJ 11725번 트리의 부모 찾기
+* [https://www.acmicpc.net/problem/11725](https://www.acmicpc.net/problem/11725){:target="_blank"}
+
+### 11월 2일
+* BOJ 11724번 연결 요소의 개수
+* [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724){:target="_blank"}
+
+### 10월 26일
+* BOJ 7562번 나이트의 이동
+* [https://www.acmicpc.net/problem/7562](https://www.acmicpc.net/problem/7562){:target="_blank"}
+
+### 10월 19일
+* BOJ 4963번 섬의 개수
+* [https://www.acmicpc.net/problem/4963](https://www.acmicpc.net/problem/4963){:target="_blank"}
+
+### 10월 12일
+* BOJ 2644번 촌수계산
+* [https://www.acmicpc.net/problem/2644](https://www.acmicpc.net/problem/2644){:target="_blank"}
+
+### 10월 5일
+* BOJ 3184번 양
+* [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184){:target="_blank"}
 
 ### 9월 21일
 * BOJ 1260번 DFS와 BFS
