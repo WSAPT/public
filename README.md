@@ -30,9 +30,14 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 1월 11일
+* BOJ 2252번 줄 세우기
+* [https://www.acmicpc.net/problem/2252](https://www.acmicpc.net/problem/2252){:target="_blank"}
+
 ### 12월 28일
 * BOJ 2150번 Strongly Connected Component
 * [https://www.acmicpc.net/problem/2150](https://www.acmicpc.net/problem/2150){:target="_blank"}
+* [BOJ 2150번 Strongly Connected Component](https://youtu.be/d46QTzFGLTQ)
 
 ### 12월 21일
 * BOJ 1707번 이분 그래프
