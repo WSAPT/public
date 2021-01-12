@@ -37,7 +37,7 @@ skysign at gmail.com
 ### 12월 28일
 * BOJ 2150번 Strongly Connected Component
 * [https://www.acmicpc.net/problem/2150](https://www.acmicpc.net/problem/2150){:target="_blank"}
-* [BOJ 2150번 Strongly Connected Component](https://youtu.be/d46QTzFGLTQ)
+* [![BOJ 2150번 Strongly Connected Component](https://img.youtube.com/vi/d46QTzFGLTQ/maxresdefault.jpg)](https://youtu.be/d46QTzFGLTQ)
 
 ### 12월 21일
 * BOJ 1707번 이분 그래프
