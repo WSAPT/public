@@ -30,9 +30,43 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
-### 1월 11일
+### 3월 15일
+* BOJ 10265번 MT
+* [https://www.acmicpc.net/problem/10265](https://www.acmicpc.net/problem/10265){:target="_blank"}
+* [![BOJ 10265번 MT](https://img.youtube.com/vi/DBgcB9Se5S4/hqdefault.jpg)](https://youtu.be/DBgcB9Se5S4)
+
+### 3월 8일
+* BOJ 1103번 게임
+* [https://www.acmicpc.net/problem/1103](https://www.acmicpc.net/problem/1103){:target="_blank"}
+
+### 3월 1일
+* BOJ 1987번 알파벳
+* [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987){:target="_blank"}
+
+### 2월 8일
+* BOJ 9376번 탈옥
+* [https://www.acmicpc.net/problem/9376](https://www.acmicpc.net/problem/9376){:target="_blank"}
+* [![BOJ 9376번 탈옥](https://img.youtube.com/vi/teJT9JX5oL0/hqdefault.jpg)](https://youtu.be/teJT9JX5oL0)
+
+### 2월 1일
+* BOJ 13460번 구슬 탈출 2
+* [https://www.acmicpc.net/problem/13460](https://www.acmicpc.net/problem/13460){:target="_blank"}
+* [![BOJ 13460번 구슬 탈출 2](https://img.youtube.com/vi/_4dUbnnrnX0/hqdefault.jpg)](https://youtu.be/_4dUbnnrnX0)
+
+### 1월 25일
+* BOJ 2146번 다리 만들기
+* [https://www.acmicpc.net/problem/2146](https://www.acmicpc.net/problem/2146){:target="_blank"}
+* [![BOJ 2146번 다리 만들기](https://img.youtube.com/vi/2bY5l8V6ggo/hqdefault.jpg)](https://youtu.be/2bY5l8V6ggo)
+
+### 1월 18일
+* BOJ 14502번 연구소
+* [https://www.acmicpc.net/problem/14502](https://www.acmicpc.net/problem/14502){:target="_blank"}
+* [![BOJ 14502번 연구소](https://img.youtube.com/vi/3BgD9XkZydo/hqdefault.jpg)](https://youtu.be/3BgD9XkZydo)
+
+### 1월 6일
 * BOJ 2252번 줄 세우기
 * [https://www.acmicpc.net/problem/2252](https://www.acmicpc.net/problem/2252){:target="_blank"}
+* [![BOJ 2252번 줄 세우기](https://img.youtube.com/vi/B0W3Wh3Xbu8/hqdefault.jpg)](https://youtu.be/B0W3Wh3Xbu8)
 
 ### 2020년 12월 28일
 * BOJ 2150번 Strongly Connected Component
