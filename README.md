@@ -30,6 +30,26 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 5월 3일
+* BOJ 2003번 수들의 합 2
+* [https://www.acmicpc.net/problem/2003](https://www.acmicpc.net/problem/2003){:target="_blank"}
+* [![BOJ 2003번 수들의 합 2]()]()
+
+### 4월 19일
+* BOJ 2470번 두 용액
+* [https://www.acmicpc.net/problem/2470](https://www.acmicpc.net/problem/2470){:target="_blank"}
+* [![BOJ 2470번 두 용액](https://img.youtube.com/vi/oAOEWODc9q4/hqdefault.jpg)](https://youtu.be/oAOEWODc9q4)
+
+### 4월 12일
+* BOJ 1197번 최소 스패닝 트리
+* [https://www.acmicpc.net/problem/1197](https://www.acmicpc.net/problem/1197){:target="_blank"}
+* [![BOJ 1197번 최소 스패닝 트리](https://img.youtube.com/vi/0gxqAbUMWeE/hqdefault.jpg)](https://youtu.be/0gxqAbUMWeE)
+
+### 3월 22일
+* BOJ 1753번 최단경로
+* [https://www.acmicpc.net/problem/1753](https://www.acmicpc.net/problem/1753){:target="_blank"}
+* [![BOJ 1753번 최단경로](https://img.youtube.com/vi/nvxBhRf_OuE/hqdefault.jpg)](https://youtu.be/nvxBhRf_OuE)
+
 ### 3월 15일
 * BOJ 10265번 MT
 * [https://www.acmicpc.net/problem/10265](https://www.acmicpc.net/problem/10265){:target="_blank"}
