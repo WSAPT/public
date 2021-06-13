@@ -30,10 +30,30 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 6월 14일
+* BOJ 9249번 최장 공통 부분 문자열
+* [https://www.acmicpc.net/problem/9249](https://www.acmicpc.net/problem/9249){:target="_blank"}
+* [![BOJ 9249번 최장 공통 부분 문자열]()]()
+
+### 6월 7일
+* BOJ 11779번 최소비용 구하기 2
+* [https://www.acmicpc.net/problem/11779](https://www.acmicpc.net/problem/11779){:target="_blank"}
+* [![BOJ 11779번 최소비용 구하기 2](https://img.youtube.com/vi/Hxo5YSPi2UA/hqdefault.jpg)](https://youtu.be/Hxo5YSPi2UA)
+
+### 5월 31일
+* BOJ 14938번 서강그라운드
+* [https://www.acmicpc.net/problem/14938](https://www.acmicpc.net/problem/14938){:target="_blank"}
+* [![BOJ 14938번 서강그라운드](https://img.youtube.com/vi/0_aRf1y3q-c/hqdefault.jpg)](https://youtu.be/0_aRf1y3q-c)
+
+### 5월 24일
+* BOJ 11780번 플로이드 2
+* [https://www.acmicpc.net/problem/11780](https://www.acmicpc.net/problem/11780){:target="_blank"}
+* [![BOJ 11780번 플로이드 2](https://img.youtube.com/vi/Mnxwu2mIZWI/hqdefault.jpg)](https://youtu.be/Mnxwu2mIZWI)
+
 ### 5월 3일
 * BOJ 2003번 수들의 합 2
 * [https://www.acmicpc.net/problem/2003](https://www.acmicpc.net/problem/2003){:target="_blank"}
-* [![BOJ 2003번 수들의 합 2]()]()
+* [![BOJ 2003번 수들의 합 2](https://img.youtube.com/vi/ZzBgcF67mgg/hqdefault.jpg)](https://youtu.be/ZzBgcF67mgg)
 
 ### 4월 19일
 * BOJ 2470번 두 용액
