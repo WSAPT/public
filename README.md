@@ -30,6 +30,24 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 10월 25일
+* BOJ 16637번 괄호 추가하기
+* [https://www.acmicpc.net/problem/16637](https://www.acmicpc.net/problem/16637){:target="_blank"}
+* [![BOJ 16637번 괄호 추가하기](https://img.youtube.com/vi/kHvaAFmZ5z4/hqdefault.jpg)](https://youtu.be/kHvaAFmZ5z4)
+
+### 9월 13일
+* BOJ 17070번 파이프 옮기기 1
+* [https://www.acmicpc.net/problem/17070](https://www.acmicpc.net/problem/17070){:target="_blank"}
+* [![BOJ 16637번 괄호 추가하기](https://img.youtube.com/vi/tTclXbQbJTA/hqdefault.jpg)](https://youtu.be/tTclXbQbJTA)
+
+### 8월 30일
+* BOJ 9012번 괄호
+* [https://www.acmicpc.net/problem/9012](https://www.acmicpc.net/problem/9012){:target="_blank"}
+
+### 7월 19일
+* BOJ 9248번 Suffix Array
+* [https://www.acmicpc.net/problem/9248](https://www.acmicpc.net/problem/9248){:target="_blank"}
+
 ### 6월 14일
 * BOJ 9249번 최장 공통 부분 문자열
 * [https://www.acmicpc.net/problem/9249](https://www.acmicpc.net/problem/9249){:target="_blank"}
