@@ -30,6 +30,11 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 2월 20일
+* BOJ 14499번 주사위 굴리기
+* [https://www.acmicpc.net/problem/14499](https://www.acmicpc.net/problem/14499){:target="_blank"}
+* [![BOJ 14499번 주사위 굴리기](https://img.youtube.com/vi/SCHyY_OcUhE/hqdefault.jpg)](https://youtu.be/SCHyY_OcUhE)
+
 ### 10월 25일
 * BOJ 16637번 괄호 추가하기
 * [https://www.acmicpc.net/problem/16637](https://www.acmicpc.net/problem/16637){:target="_blank"}
