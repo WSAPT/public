@@ -30,6 +30,11 @@ skysign at gmail.com
 
 ## WSAPT 스터디 미팅에서 풀이한 문제들
 
+### 2월 27일
+* BOJ 14500번 테트로미노
+* [https://www.acmicpc.net/problem/14500](https://www.acmicpc.net/problem/14500){:target="_blank"}
+* [![BOJ 14499번 주사위 굴리기](https://img.youtube.com/vi/zSWlY-4j9P8/hqdefault.jpg)](https://youtu.be/zSWlY-4j9P8)
+
 ### 2월 20일
 * BOJ 14499번 주사위 굴리기
 * [https://www.acmicpc.net/problem/14499](https://www.acmicpc.net/problem/14499){:target="_blank"}
